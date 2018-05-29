@@ -10,3 +10,5 @@ for line in fileObj:
 
    values.append(value)
    print(sum(values)/len(values))
+
+print("add new line")
